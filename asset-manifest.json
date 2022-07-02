@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.83420069.css",
+    "main.js": "/static/js/main.9c321e92.js",
+    "static/js/787.c1112931.chunk.js": "/static/js/787.c1112931.chunk.js",
+    "static/media/tacos.png": "/static/media/tacos.d382fa6ba60d45ade254.png",
+    "static/media/mole.png": "/static/media/mole.b3a49111c5ef8a33e240.png",
+    "static/media/enchiladas.png": "/static/media/enchiladas.9aea176bdcd6ba89a281.png",
+    "static/media/background.jpg": "/static/media/background.289c502a16076a3bc7cf.jpg",
+    "static/media/menuA1.jpg": "/static/media/menuA1.6558efaf836ff6b87253.jpg",
+    "static/media/menuA2.jpg": "/static/media/menuA2.76c896b5098942bc08df.jpg",
+    "static/media/nachos.jpg": "/static/media/nachos.d21487567658ac881326.jpg",
+    "static/media/burritos.png": "/static/media/burritos.8b8390172e0e013e283c.png",
+    "static/media/menuB2.jpg": "/static/media/menuB2.7a7262d7a756ad0d1bdc.jpg",
+    "static/media/menuB1.jpg": "/static/media/menuB1.d4e145fce3cff0fc9f8b.jpg",
+    "static/media/menuC1.jpg": "/static/media/menuC1.527a269c872e6612dedd.jpg",
+    "static/media/menuD1.jpg": "/static/media/menuD1.00e475a45af05c77c352.jpg",
+    "static/media/menuC2.jpg": "/static/media/menuC2.40a582ba4fc25f7667ea.jpg",
+    "static/media/menuD2.jpg": "/static/media/menuD2.0bb00f95ba0e23b41c54.jpg",
+    "index.html": "/index.html",
+    "main.83420069.css.map": "/static/css/main.83420069.css.map",
+    "main.9c321e92.js.map": "/static/js/main.9c321e92.js.map",
+    "787.c1112931.chunk.js.map": "/static/js/787.c1112931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83420069.css",
+    "static/js/main.9c321e92.js"
+  ]
+}
